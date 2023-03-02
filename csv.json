@@ -1,0 +1,14 @@
+[
+  {
+    "name": "movie-list",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT9G_MuAcKWBUIXdWypvR9ZRNAb5lqfiKu-UHrJw2-ZPfj5U-wspj_9YDCOe7geyOFhC6Z5kFloBk/pub?gid=0&single=true&output=csv"
+  },
+  {
+    "name": "history-index",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT9G_MuAcKWBUIXdWypvR9ZRNAb5lqfiKu-UHrJw2-ZPfj5U-wspj_9YDCOe7geyOFhC6Z5kFloBk/pub?gid=1363562775&single=true&output=csv"
+  },
+  {
+    "name": "history-live",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT9G_MuAcKWBUIXdWypvR9ZRNAb5lqfiKu-UHrJw2-ZPfj5U-wspj_9YDCOe7geyOFhC6Z5kFloBk/pub?gid=228087242&single=true&output=csv"
+  }
+]
