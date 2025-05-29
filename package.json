@@ -13,7 +13,7 @@
     "fs-extra": "^11.1.0",
     "jiti": "^2.4.2",
     "papaparse": "^5.4.0",
-    "typescript": "^4.9.5"
+    "typescript": "^5.0.0"
   },
   "devDependencies": {
     "@types/papaparse": "^5.3.7"
