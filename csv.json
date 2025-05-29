@@ -22,5 +22,9 @@
   {
     "name": "pc-old-details",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT9G_MuAcKWBUIXdWypvR9ZRNAb5lqfiKu-UHrJw2-ZPfj5U-wspj_9YDCOe7geyOFhC6Z5kFloBk/pub?gid=442275766&single=true&output=csv"
+  },
+  {
+    "name": "pc-old-gadget",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT9G_MuAcKWBUIXdWypvR9ZRNAb5lqfiKu-UHrJw2-ZPfj5U-wspj_9YDCOe7geyOFhC6Z5kFloBk/pub?gid=2018170968&single=true&output=csv"
   }
 ]
