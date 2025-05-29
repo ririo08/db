@@ -1,5 +1,5 @@
 import * as parse from './src/parse';
-import * as csvList from './csv.json';
+import csvList from './csv.json';
 import { CsvUrl } from './@types/CsvUrl';
 import * as fs from 'fs-extra';
 

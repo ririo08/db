@@ -1,5 +1,6 @@
 {
   "name": "db",
+  "private": true,
   "version": "1.0.0",
   "main": "main.js",
   "repository": "https://github.com/ririo08/db.git",
@@ -10,14 +11,14 @@
     "@types/fs-extra": "^11.0.1",
     "axios": "^1.3.4",
     "fs-extra": "^11.1.0",
+    "jiti": "^2.4.2",
     "papaparse": "^5.4.0",
-    "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
   },
   "devDependencies": {
     "@types/papaparse": "^5.3.7"
   },
   "scripts": {
-    "build": "ts-node main.ts"
+    "build": "jiti main.ts"
   }
 }
